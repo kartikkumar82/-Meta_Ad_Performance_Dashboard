@@ -1,4 +1,6 @@
 ### 📊 Meta Ad Performance Dashboard
+<img src ="Screenshot 2025-10-16 153849.png">
+
 # 🧩 Project Overview
 
 The Meta Ad Performance Dashboard is an interactive Power BI report designed to visualize advertising performance across Meta platforms (Facebook & Instagram).
